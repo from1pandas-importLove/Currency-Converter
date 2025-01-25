@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: "Including a documentation string, or docstring, is considered good practice."
+  - text: "The statements that form the body of the function are enclosed in <code>{}</code>."
+  - text: The first statement of the function body <b>must be</b> documentation string.
+  - text: The keyword <code>def</code> must be followed by the function name and the
+      parenthesized list of parameters.
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12128#comment
+status: Solved
+record: -1
+local_check: false
