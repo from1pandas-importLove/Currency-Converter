@@ -1,0 +1,109 @@
+hyperskill_project:
+  id: 157
+  ide_files: https://cogniterra.org/media/attachments/lesson/25346/additional_files.json
+  is_template_based: false
+  use_ide: true
+  environment: unittest
+update_date: "Fri, 24 Jan 2025 22:55:10 UTC"
+stages:
+  - id: 817
+    step: 12119
+    is_completed: true
+  - id: 818
+    step: 12120
+    is_completed: true
+  - id: 819
+    step: 12121
+    is_completed: true
+  - id: 820
+    step: 12122
+    is_completed: true
+  - id: 821
+    step: 12123
+    is_completed: true
+  - id: 822
+    step: 12124
+    is_completed: true
+topics:
+  0:
+    - title: Introduction to Python
+      theory_id: 47352
+  1:
+    - title: Multi-line programs
+      theory_id: 47555
+    - title: Taking user's input
+      theory_id: 47680
+    - title: Basic data types
+      theory_id: 47516
+    - title: Variables
+      theory_id: 47536
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 47564
+    - title: Type casting
+      theory_id: 6224
+  2:
+    - title: Program with numbers
+      theory_id: 47734
+    - title: Invoking functions
+      theory_id: 5891
+    - title: Declaring functions
+      theory_id: 5900
+  3:
+    - title: If statement
+      theory_id: 5953
+    - title: For loop
+      theory_id: 6065
+    - title: Importing modules
+      theory_id: 6019
+    - title: Math functions
+      theory_id: 6256
+    - title: Boolean type and operations. True and false
+      theory_id: 6025
+    - title: Comparisons
+      theory_id: 5920
+    - title: List
+      theory_id: 5979
+    - title: Dictionary
+      theory_id: 6481
+  4:
+    - title: Operating systems
+      theory_id: 9704
+    - title: Command line overview
+      theory_id: 8977
+    - title: Parameters and options
+      theory_id: 9746
+    - title: World Wide Web
+      theory_id: 6633
+    - title: "HTTP: HyperText Transfer Protocol"
+      theory_id: 6569
+    - title: HTTP URL
+      theory_id: 6740
+    - title: HTTP messages
+      theory_id: 6752
+    - title: Working with file modes and permissions
+      theory_id: 13961
+    - title: Creating modules
+      theory_id: 6057
+    - title: Multiple modules. Package
+      theory_id: 6384
+    - title: Installing packages with pip
+      theory_id: 6230
+    - title: Files
+      theory_id: 13025
+    - title: "Requests: retrieving data"
+      theory_id: 8603
+    - title: JSON
+      theory_id: 6854
+    - title: File types
+      theory_id: 13017
+    - title: File modes and permissions
+      theory_id: 13953
+    - title: Files in Python
+      theory_id: 8691
+    - title: Json module
+      theory_id: 8999
+  5:
+    - title: While loop
+      theory_id: 5940
+    - title: "Loop control: break, continue, pass"
+      theory_id: 6302

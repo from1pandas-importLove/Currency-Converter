@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: cconverter/cconverter.py
+    visible: true
+    learner_created: false
+  - name: test/__init__.py
+    visible: false
+    learner_created: false
+  - name: test/tests.py
+    visible: false
+    learner_created: false
+  - name: tests.py
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12123#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 24 Jan 2025 23:07:19 UTC"
+record: 5

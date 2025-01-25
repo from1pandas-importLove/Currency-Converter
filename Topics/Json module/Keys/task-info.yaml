@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: tuple
+  - text: dictionary
+  - text: string
+  - text: integer
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15486#comment
+status: Solved
+record: -1
+local_check: false
